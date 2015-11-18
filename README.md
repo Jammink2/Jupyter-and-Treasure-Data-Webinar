@@ -1,4 +1,5 @@
 # Jupyter-and-Treasure-Data-Webinar
+This repository contains the Jupyter Notebook from our webinar:  "How Jupyter & Pandas Can Fast Track Your Analytics Effort."  aired on Wednesday, November 18th, 2015. 
 
 ## Basic Setup
 
